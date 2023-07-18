@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Poovarasan
 - 👀 I’m interested in Fullstack development and Stock Markets
-- 🌱 I’m currently learning wep and App development
+- 🌱 I’m currently learning web and App development
 - 💞️ I’m looking to collaborate on real world projects
 
 <!---
