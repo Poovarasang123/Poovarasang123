@@ -1,9 +1,4 @@
 - 👋 Hi, I’m Poovarasan
-- 👀 I’m interested in Fullstack development and Stock Markets
-- 🌱 I’m currently learning web and App development
-- 💞️ I’m looking to collaborate on real world projects
-
-<!---
-Poovarasang123/Poovarasang123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in software Development and seeking for jobs.
+- 🌱 I’m currently learning web and App development and java language.
+- 💞️ I’m looking to collaborate myself on a good company to kicstart my carrer.
